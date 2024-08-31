@@ -11,9 +11,9 @@
 - 📫 How to reach me: sam786wed@gmail.com
 
 Skills and Tools:
-<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
-<img src="https://encryptedtbn0.gstatic.com/imagesq=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"/>
-</a>
 
 Connect with me :
+<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"/>
+</a>
 
