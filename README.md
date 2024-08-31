@@ -12,8 +12,11 @@
 
 Skills and Tools:
 
-Connect with me :
+Connect with me :<br>
 <a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="20"/>
-</a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="50"/>
+</a> &nbsp &nbsp
+
+<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="50"/></a>
 
