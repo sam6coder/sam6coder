@@ -14,6 +14,6 @@ Skills and Tools:
 
 Connect with me :
 <a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="20"/>
 </a>
 
