@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3848396-Character-Typing&psig=AOvVaw2RsfdYH2Xl2vbLNvpiRMXa&ust=1725178397528000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD3h7_knogDFQAAAAAdAAAAABBB" width="100"/>
+  <img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b9527z0nxk425bbz485f92xiccm0uhtp0yvrcmue35em&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
  Hi there 👋, I am Sanskriti Mamgain
