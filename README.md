@@ -16,10 +16,19 @@
 <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="50"/>
 </a> 
 <a href="https://www.djangoproject.com/">
-<img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50"/>
 </a> 
 <a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
+</a> 
+<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<img src="https://img.icons8.com/?size=100&id=XPdRFanRZtNK&format=png&color=000000" width="50"/>
+</a> 
+<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
+</a> 
+<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
 </a> 
 
 </div>
