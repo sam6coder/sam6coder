@@ -22,10 +22,10 @@
 <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
 </a> 
 <a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
-<img src="https://img.icons8.com/?size=100&id=XPdRFanRZtNK&format=png&color=000000" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" width="50"/>
 </a> 
 <a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
-<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" width="50"/>
 </a> 
 <a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
 <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
