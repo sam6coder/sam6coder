@@ -12,7 +12,7 @@
 
 Skills and Tools:
 
-<h3>Connect with me :</h3><br>
+<h3>Connect with me :</h3>
 <div>
 <a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width="50"/>
