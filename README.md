@@ -13,7 +13,7 @@
 <h3>Skills and Tools:</h3>
 <div>
   <a href="https://flutter.dev/">
-<img src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="50"/>
 </a> 
 <a href="https://www.djangoproject.com/">
 <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-1713885634631.webp" width="50"/>
