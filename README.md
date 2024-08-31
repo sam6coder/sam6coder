@@ -4,13 +4,16 @@
 <br><br>
 <h1><Center> Hi there 👋, I am Sanskriti Mamgain</h1>
 
- An Aspiring Developer in Coumpter Science
+ An Aspiring Developer in Computer Science
  
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: sam786wed@gmail.com
 
 Skills and Tools:
+<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<img src="https://encryptedtbn0.gstatic.com/imagesq=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"/>
+</a>
 
 Connect with me :
 
