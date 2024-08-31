@@ -15,19 +15,19 @@
   <a href="https://flutter.dev/">
 <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="50"/>
 </a> 
-<a href="https://www.djangoproject.com/">
+<a href="https://www.python.org/">
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50"/>
 </a> 
-<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<a href="https://www.w3schools.com/cpp/">
 <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="50"/>
 </a> 
-<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<a href="https://dart.dev/">
 <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" width="50"/>
 </a> 
-<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<a href="https://www.djangoproject.com/">
 <img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" width="50"/>
 </a> 
-<a href="https://www.linkedin.com/in/sanskriti-mamgain-8b7ba1213/">
+<a href="https://git-scm.com/">
 <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="50"/>
 </a> 
 
