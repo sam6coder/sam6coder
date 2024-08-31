@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b9527z0nxk425bbz485f92xiccm0uhtp0yvrcmue35em&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400"/>
 </div>
 <br><br>
-<center> Hi there 👋, I am Sanskriti Mamgain</center>
+<h1><Center> Hi there 👋, I am Sanskriti Mamgain</h1>
 
  An Aspiring Developer in Coumpter Science
  
