@@ -1,16 +1,15 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/4993d8dc-bd55-4df1-9719-a7c20c795f63)
 
-<!--
-**sam6coder/sam6coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ Hi there 👋, I am Sanskriti Mamgain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ An Aspiring Developer in Coumpter Science
+ 
+- 🔭 I’m currently working on Flutter Projects
+- 🌱 I’m currently learning Django
+- 📫 How to reach me: sam786wed@gmail.com
+
+Skills and Tools:
+
+Connect with me :
+
